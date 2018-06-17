@@ -17,3 +17,7 @@
 - 钟表
 - 写字板
 - 蜘蛛网数据显示图
+
+### [图片的三级缓存](https://github.com/chenshuaiyu/Android_demo/tree/master/CacheImage)
+
+​	结合LruCache，DiskLruCache实现对图片的三级缓存。
